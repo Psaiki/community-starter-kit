@@ -1,10 +1,20 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is a place to describe your probot app :wink:
+1. one
+1. two
+1. three
+jump up a tree
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This is a place to describe the features of your probot app :smile:
+* three
+* four
+say no more...
+
+:shark:
+
 
 ## Getting started
 
